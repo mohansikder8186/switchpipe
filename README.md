@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add TorchScript Docs Integrations Page (#8501)
