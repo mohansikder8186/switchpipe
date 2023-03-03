@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Elaborate Train and Predict mode docs arguments (#8137)
