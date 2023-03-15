@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Update H1 in Explorer API docs (#7813)
