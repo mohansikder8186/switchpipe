@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
