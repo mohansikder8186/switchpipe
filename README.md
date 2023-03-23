@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add plot_images conf_thresh parameter (#8446)
