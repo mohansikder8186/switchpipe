@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
