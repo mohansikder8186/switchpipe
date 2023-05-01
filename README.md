@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
