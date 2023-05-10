@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
