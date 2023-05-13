@@ -1,1 +1,1 @@
-add yolov10
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
