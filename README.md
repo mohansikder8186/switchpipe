@@ -1,1 +1,1 @@
-ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
