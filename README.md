@@ -1,1 +1,1 @@
-New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
