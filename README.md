@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
