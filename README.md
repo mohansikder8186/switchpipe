@@ -1,1 +1,1 @@
-Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
