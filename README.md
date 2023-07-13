@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
