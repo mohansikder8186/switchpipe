@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Replace onnx2tf usage from CLI to Python (#8429)
