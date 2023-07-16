@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add dota8.yaml and O tests (#7394)
