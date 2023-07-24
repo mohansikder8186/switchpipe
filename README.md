@@ -1,1 +1,1 @@
-update requirements.txt
+fix for KeyError: 'epoch' (#48)
