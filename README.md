@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Fix OBB xywh-angle concatenation bug (#7404)
