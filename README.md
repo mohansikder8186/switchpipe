@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Update Colab notebook for YOLOv8.1 (#8660)
