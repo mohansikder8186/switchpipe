@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
