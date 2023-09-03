@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Update the heatmap module code + docs (#7045)
