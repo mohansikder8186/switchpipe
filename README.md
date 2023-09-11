@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Add YOLOv8 LibTorch C++ inference example (#7090)
