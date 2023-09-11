@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
