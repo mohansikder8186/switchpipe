@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
