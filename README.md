@@ -1,1 +1,1 @@
-ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
