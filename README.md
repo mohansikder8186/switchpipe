@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+OBB: Fix plot_images (#7592)
