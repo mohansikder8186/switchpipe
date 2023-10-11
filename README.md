@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
