@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
