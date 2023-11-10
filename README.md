@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add new YOLOv8 OBB model metrics (#7379)
