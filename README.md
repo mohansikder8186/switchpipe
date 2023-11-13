@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Update CITATION.cff with cffinit corrections (#8658)
