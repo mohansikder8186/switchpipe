@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Update H1 in Explorer API docs (#7813)
