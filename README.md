@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
