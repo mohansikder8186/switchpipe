@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
