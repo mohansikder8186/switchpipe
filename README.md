@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Update Docs Home and Neural Magic pages (#7243)
