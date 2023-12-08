@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
