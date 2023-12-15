@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Faster batch same_shapes (#8851)
