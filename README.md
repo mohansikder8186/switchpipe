@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Update Discord and Contributing Guide URLs (#9270)
