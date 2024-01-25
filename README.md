@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Optimize function calls to method calls (#8507)
