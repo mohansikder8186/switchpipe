@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Update Roboflow segmentation Docs pages (#8094)
