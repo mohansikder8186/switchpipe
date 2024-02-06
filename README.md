@@ -1,1 +1,1 @@
-update requirements.txt
+Clean up unused imgsz (#7771)
