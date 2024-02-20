@@ -1,1 +1,1 @@
-Add https://youtu.be/uDrn9QZJ2lk and object_counting.py, ai_gym.py updates (#9265)
+Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
