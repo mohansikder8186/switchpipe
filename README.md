@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Update Colab notebook for YOLOv8.1 (#8660)
