@@ -1,1 +1,1 @@
-Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
