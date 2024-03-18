@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Add docstrings to new HUB functions (#7576)
