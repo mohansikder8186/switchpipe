@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Update Docs Home and Neural Magic pages (#7243)
