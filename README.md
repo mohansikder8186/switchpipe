@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
