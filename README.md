@@ -1,1 +1,1 @@
-add yolov10
+Fix PNNX ubuntu -> linux bug (#7050)
