@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
