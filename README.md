@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
