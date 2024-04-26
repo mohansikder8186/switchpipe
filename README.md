@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Allow Annotator PIL.Image inputs (#8397)
