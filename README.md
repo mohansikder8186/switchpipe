@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Fix Neural Magic links (#9144)
