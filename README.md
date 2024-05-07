@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add HUB-SDK Docs reference section (#7781)
