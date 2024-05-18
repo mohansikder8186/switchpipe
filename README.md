@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
