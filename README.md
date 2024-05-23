@@ -1,1 +1,1 @@
-Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
