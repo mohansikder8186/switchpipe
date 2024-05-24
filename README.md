@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
