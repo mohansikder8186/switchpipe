@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add new YOLOv8 OBB model metrics (#7379)
