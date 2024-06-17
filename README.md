@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
