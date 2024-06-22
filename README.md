@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add Amazon Sagemaker Docs integrations page (#7293)
