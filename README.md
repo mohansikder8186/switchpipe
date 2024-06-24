@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+docs: update view-results-in-terminal.md (#66)
