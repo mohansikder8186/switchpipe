@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Use pathlib in DOTA ops (#7552)
