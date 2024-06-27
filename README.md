@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Update docs building code (#7601)
