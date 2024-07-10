@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Optimize TFJS export on ARM64 (#8946)
