@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
