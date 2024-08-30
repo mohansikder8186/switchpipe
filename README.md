@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
