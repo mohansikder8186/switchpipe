@@ -1,1 +1,1 @@
-Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
