@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fix test_mlflow_keep_run_active() (#8868)
